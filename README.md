@@ -14,12 +14,12 @@ This Python tool leverages the power of machine learning to generate content bas
 
 Before running the script, ensure you have installed all the necessary dependencies:
 
-````bash
+
 pip install deep_translator
 # Add other dependencies if needed
 
 
-```markdown
+
 # Çok Dilli İçerik Oluşturma Aracı
 
 ## Genel Bakış
@@ -33,7 +33,7 @@ Bu Python aracı, kullanıcı girdilerine dayanarak içerik oluşturmak için ma
 ## Kurulum
 Scripti çalıştırmadan önce gerekli tüm bağımlılıkları yüklediğinizden emin olun:
 
-```bash
+
 pip install deep_translator
 # Gerekirse diğer bağımlılıklar da eklenebilir
 
