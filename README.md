@@ -34,7 +34,8 @@ Bu Python aracı, kullanıcı girdilerine dayanarak içerik oluşturmak için ma
 Scripti çalıştırmadan önce gerekli tüm bağımlılıkları yüklediğinizden emin olun:
 
 
-pip install deep_translator
+
 
 
 ````
+pip install deep_translator
