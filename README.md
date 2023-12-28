@@ -14,9 +14,7 @@ This Python tool leverages the power of machine learning to generate content bas
 
 Before running the script, ensure you have installed all the necessary dependencies:
 
-
 pip install deep_translator
-
 
 
 
