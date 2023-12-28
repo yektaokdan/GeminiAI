@@ -16,7 +16,7 @@ Before running the script, ensure you have installed all the necessary dependenc
 
 
 pip install deep_translator
-Add other dependencies if needed
+
 
 
 
@@ -35,6 +35,6 @@ Scripti çalıştırmadan önce gerekli tüm bağımlılıkları yüklediğinizd
 
 
 pip install deep_translator
-Gerekirse diğer bağımlılıklar da eklenebilir
+
 
 ````
